@@ -1,10 +1,9 @@
 # LeetCode Solutions
 
-Python solutions to LeetCode problems, organized by difficulty.
+Python solutions to LeetCode problems, organized by topic.
 
 ## Structure
 
-- `leetcode_easy/` — easy problems
-- `leetcode_med/` — medium problems
+- `Arrays & Hash Tables/`
 
 Each file is named after the problem and includes its LeetCode number.
