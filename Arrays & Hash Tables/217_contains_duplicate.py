@@ -5,17 +5,16 @@ class Solution(object):
         :rtype: bool
         """
 
-        seen = set()
+        seen_nums = set()
 
         for num in nums:
-            if num in seen:
+            if num in seen_nums:
                 return True
-            
             else:
-                seen.add(num)
+                seen_nums.add(num)
 
         return False
 
-
+        
 
         
